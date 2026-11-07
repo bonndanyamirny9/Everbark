@@ -191,3 +191,6 @@ This repository serves as the official landing page for Everbark. The software i
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Everbark today!**
+
+---
+**Last updated:** 2026-11-07 20:40:25 UTC
