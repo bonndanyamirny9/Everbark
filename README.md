@@ -193,4 +193,4 @@ This repository serves as the official landing page for Everbark. The software i
 **Get the most recent version of Everbark today!**
 
 ---
-**Last updated:** 2026-11-14 07:22:53 UTC
+**Last updated:** 2026-11-14 14:46:38 UTC
